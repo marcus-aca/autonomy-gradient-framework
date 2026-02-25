@@ -1,0 +1,44 @@
+version: 1
+updated_on: 2026-02-27
+
+core_primitive:
+  name: Operational Execution Authority
+  definition: The degree to which iterative execution authority is delegated to AI systems within bounded engineering workflows.
+
+inflection_point:
+  name: Iterative Validation Authority Transfer
+  informal_definition: When AI closes the red-to-green loop in bounded systems.
+
+modes:
+  - name: Assisted
+    loop_closure: Human
+    human_role: Primary Implementer
+    keywords: [assistance, drafting, human-closed-loop]
+  - name: Integrated
+    loop_closure: Human
+    human_role: Reviewer and Debugger
+    keywords: [ai-generated-artifacts, human-validation, review-load]
+  - name: Validated
+    loop_closure: AI within bounded environment
+    human_role: Supervisor and Architectural Gatekeeper
+    keywords: [red-to-green, deterministic-validation, bounded-autonomy]
+  - name: Autonomous
+    loop_closure: AI across bounded subsystems
+    human_role: System Architect and Constraint Designer
+    keywords: [cross-boundary-delegation, constraints, guardrails]
+  - name: Self-Optimizing
+    loop_closure: AI in limited production feedback loops
+    human_role: Strategic Oversight and Risk Governance
+    keywords: [feedback-loops, telemetry-driven-improvement, governance]
+
+glossary:
+  - term: Human-Closed Loop
+    definition: Humans perform iterative validation and final resolution of failures.
+  - term: AI-Closed Loop
+    definition: AI performs iterative validation and correction within explicit boundaries.
+  - term: Bounded Execution Environment
+    definition: A deterministic, policy-controlled environment where autonomous actions are constrained.
+  - term: Constraint Encoding
+    definition: Encoding policy and architecture rules into artifacts AI systems must obey.
+  - term: Validation Ownership
+    definition: Which actor primarily performs iterative correctness checks and loop closure.
