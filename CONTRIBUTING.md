@@ -35,3 +35,13 @@ By submitting content, you represent you have rights to submit it and you grant 
 Contributions are collaborative. Final editorial decisions, publication decisions, canonical terminology decisions, and repository curation rights remain with the maintainers.
 
 Maintainers may accept, reject, edit, or remove submissions at their discretion.
+
+## Licensing Model
+
+Default repository license: CC BY-NC-ND 4.0.
+
+Selected implementation-oriented files include explicit additional permissions under `LICENSE_SCOPE.md`.
+
+## Commercial, Derivative, and Exception Requests
+
+If you need commercial rights, derivative rights, translations, or other exceptions for core framework content, open a licensing request through the repository contribution workflow. Approved exceptions must be explicit and in writing.

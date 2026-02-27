@@ -1,3 +1,5 @@
+<!-- Default repository license is CC BY-NC-ND 4.0. This file has additional implementation permissions under ../../LICENSE_SCOPE.md -->
+
 ---
 title: ""
 excerpt: ""

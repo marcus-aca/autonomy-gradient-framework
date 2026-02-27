@@ -28,6 +28,7 @@ autonomy-gradient-framework/
 │       └── *.md
 ├── CONTRIBUTING.md
 ├── LICENSE
+├── LICENSE_SCOPE.md
 └── README.md
 ```
 
@@ -38,3 +39,15 @@ autonomy-gradient-framework/
 - Contributions are collaborative, with maintainers retaining final editorial and publication decisions.
 
 See `CONTRIBUTING.md` for rights, editorial process, and submission requirements.
+
+## License Model
+
+Default license: CC BY-NC-ND 4.0.
+
+Selected implementation-oriented files have explicit additional permissions to support practical adoption.
+
+Exact scope and conditions are defined in:
+
+- `LICENSE_SCOPE.md`
+
+Commercial use rights and derivative rights for core framework content require explicit written approval from maintainers.

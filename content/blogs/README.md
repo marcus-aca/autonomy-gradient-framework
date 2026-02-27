@@ -25,3 +25,9 @@ Use `_template.md` to start.
 - Align wording to canonical model language in `../../model/terms.yml`
 - Prioritize practical journeys and concrete outcomes
 - Avoid sensitive/private information
+
+## Licensing
+
+Default repository license is CC BY-NC-ND 4.0.
+
+This file and `_template.md` have explicit additional permissions for implementation use under `../../LICENSE_SCOPE.md`.
