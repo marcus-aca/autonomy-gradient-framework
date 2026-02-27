@@ -20,14 +20,27 @@ This directory accepts blog submissions via pull request.
 
 Use `_template.md` to start.
 
+## Link Policy for Blog Posts
+
+External links are allowed when they are relevant and support the reader.
+
+- Self-resource links are allowed, with a maximum of two.
+- Add a short disclosure for links to your employer, product, or client work.
+- Do not include affiliate/referral links.
+- Avoid unnecessary tracking parameters.
+
+Maintainers may edit or remove links during review.
+
 ## Review Notes
 
 - Align wording to canonical model language in `../../model/terms.yml`
 - Prioritize practical journeys and concrete outcomes
 - Avoid sensitive/private information
+- Avoid unverifiable hard metrics unless publicly supportable
 
 ## Licensing
 
-Default repository license is CC BY-NC-ND 4.0.
+Repository licensing and any file-scoped exceptions are defined in:
 
-This file and `_template.md` have explicit additional permissions for implementation use under `../../LICENSE_SCOPE.md`.
+- `../../LICENSE`
+- `../../LICENSE_SCOPE.md`

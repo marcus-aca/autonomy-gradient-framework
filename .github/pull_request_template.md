@@ -21,10 +21,19 @@ Provide references, examples, or field evidence supporting this PR.
 
 ## Licensing Scope Confirmation
 
-- [ ] I reviewed `LICENSE_SCOPE.md` and understand which license applies to files in this PR.
+- [ ] I reviewed `LICENSE` and `LICENSE_SCOPE.md` and understand which terms apply to files in this PR.
+
+## Link and Disclosure Confirmation (Blog PRs)
+
+- [ ] Any external links are directly relevant to the submission.
+- [ ] If self-promotional links are present, there are no more than two.
+- [ ] No affiliate/referral links are included.
+- [ ] Tracking-only URL parameters have been removed where possible.
+- [ ] Employer/product/client relationships are disclosed near relevant links.
 
 ## Checklist
 
 - [ ] Aligns to `model/terms.yml`
 - [ ] No confidential/personal/regulated data included
 - [ ] Frontmatter present for blog submissions
+- [ ] Avoids unverifiable hard metrics unless backed by public evidence
